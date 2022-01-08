@@ -1,0 +1,129 @@
+.navbar{
+  background-color: #20232a;
+  height: 60px;
+}
+#navbarSupportedContent{
+  margin-left: 100px;
+}
+.nav-link{
+  color: whitesmoke;
+  font-size: 18px;
+}
+.nav-item{
+  margin: 10px;
+}
+.nav-item:hover a{
+  color: #61dafb;
+}
+.form-control{
+  margin-left:20px ;
+}
+
+.searc{
+  margin-left: 30px;
+}
+.img{
+ margin-left: 100px !important;
+  height: 18px;
+  width: 18px;
+}
+.navbar-brand{
+  color: #61dafb;
+  margin-left: 10px;
+}
+.jumbotron{
+  background-color: #282c34;
+  border-radius: 0%;
+}
+
+.hed1{
+  color: #61dafb;
+  font-size: 60px;
+  margin-top: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.h2{
+  margin-top: 30px;
+  color: white;
+  text-align: center;
+}
+
+.btn{
+  border-radius: 0%;
+  background-color:  #61dafb;
+margin-left: 500px;
+margin-top: 50px;
+height: 52px;
+font-size: 20px;
+width: 150px;
+}
+
+.btn1{
+  border-radius: 0%;
+  background-color:  #61dafb;
+margin-left: 500px;
+margin-top: -5px;
+height: 52px;
+font-size: 20px;
+width: 150px;
+}
+.par{
+  color: #61dafb;
+ margin-left: 670px;
+ margin-top: -40px !important;
+  font-size: 20px;
+}
+
+.row{
+  margin-top: 80px;
+}
+.hed3{
+  color: #6d6d6d;
+  font-size: 23px;
+}
+
+p{
+  font-size: 17px;
+}
+.comp{
+  margin-left: -30px;
+}
+
+.jum1{
+  background-color:#282c34;
+  height: 100px;
+ 
+  
+  
+}
+.jum2{
+  margin-top: -32px;
+  height: 700px;
+  background-color: #20232a;
+  margin-bottom: 0;
+  
+}
+.row{
+  margin-top: -30px;
+  margin-left: 100px;
+}
+.hed4{
+  color: rgb(161, 161, 161);
+}
+.link{
+  color: white;
+  list-style: none;
+  margin-top: 5px;
+}
+
+.link:hover{
+  color: #61dafb;
+}
+.con{
+  margin-top: 100px;
+}
+.heading{
+  margin-top: 40px;
+}
